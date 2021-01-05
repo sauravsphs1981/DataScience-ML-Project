@@ -1,0 +1,6 @@
+Group,Model,AUROC
+Linear,Traditional OLS Logistic Regression,0.897
+,Lasso,0.721
+,Ridge Logistic Regression,0.712
+,Elastic Net,0.75
+Non-Linear,Random Forest,0.64
